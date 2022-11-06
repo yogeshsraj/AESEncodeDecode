@@ -1,0 +1,11 @@
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.deps.json
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.json
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.dev.json
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.dll
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.pdb
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfoInputs.cache
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
+E:\AESEncodeDecode\AESEncodeDecode\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
