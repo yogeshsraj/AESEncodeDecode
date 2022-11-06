@@ -15,7 +15,8 @@ namespace ConsoleApp1
                 string original = "PlatformLogin!23#";
                 using (RijndaelManaged myRijndael = new RijndaelManaged())
                 {
-
+                    //Branch Switching Test
+                    //Main Branch
                     //myRijndael.GenerateKey();
                     //myRijndael.GenerateIV();
                     myRijndael.Key = Encoding.UTF8.GetBytes("8080808080808080");
